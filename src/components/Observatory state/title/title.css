@@ -1,0 +1,20 @@
+.title {
+    color: var(--basic-black, #201A29);
+    font-family: Oswald;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.6px;
+}
+
+.title-container {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.img {
+    width: 20px;
+    height: 20px;
+}

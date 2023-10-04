@@ -1,9 +1,9 @@
-import Header from "./components/header/Header";
+import ObservatoryState from "./pages/ObservatoryState";
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <ObservatoryState/>
     </div>
   );
 }
